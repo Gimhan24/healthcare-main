@@ -45,7 +45,7 @@ Verify the user and database creation by checking the **Users** tab in phpMyAdmi
 ### 1. Clone the Repository
 Open your terminal and run:
 ```bash
-git clone https://github.com/YaraAstro/healthcare.git
+git clone https://github.com/Gimhan24/healthcare-main
 ```
 
 ### 2. Navigate to the Project Directory
